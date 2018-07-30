@@ -1,1 +1,1 @@
-# gail_ppo
+# from https://github.com/shamanez/Imitation-PPO-Loss
